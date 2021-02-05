@@ -1,3 +1,6 @@
+README file for the code Search.py
+
+
 Contents:
 1)Structure:
 2)Brief description of each algorithm.
