@@ -9,6 +9,7 @@ import time
 Start=time.time()   # time to terminate after  1 hour
 PERIOD_OF_TIME = 3600
 
+
 class node:
     def __init__(self):
         self.lat=[0]*30
