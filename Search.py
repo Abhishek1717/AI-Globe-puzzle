@@ -492,6 +492,7 @@ def RBFS(state_start,state_goal,f_limit):
     
     
 
+    
 ########################### MAIN function ####################   
 
 algo=sys.argv[1]
